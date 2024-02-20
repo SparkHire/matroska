@@ -1,6 +1,6 @@
 {
   "name": "@spark-hire/matroska",
-  "version": "2.3.0",
+  "version": "2.4.0-dev-1",
   "description": "Matroska node parser",
   "main": "index.js",
   "repository": {
